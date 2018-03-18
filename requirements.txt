@@ -6,3 +6,4 @@ matplotlib
 h5py
 scipy
 PIL
+sklearn
