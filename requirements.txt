@@ -2,3 +2,7 @@ ipython
 pandas
 numpy
 tensorflow
+matplotlib
+h5py
+scipy
+PIL
