@@ -5,9 +5,5 @@ tensorflow
 matplotlib
 h5py
 scipy
-<<<<<<< HEAD
-PIL
 sklearn
-=======
 pillow
->>>>>>> ea54d5f0d91b709a0afe04d2ce6506f747a96cd7
