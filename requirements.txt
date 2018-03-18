@@ -5,4 +5,4 @@ tensorflow
 matplotlib
 h5py
 scipy
-PIL
+pillow
